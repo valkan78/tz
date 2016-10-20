@@ -53,6 +53,7 @@ _highcharts spline_ ![Widget](widget.png)
 На странице Table отрисовать таблицу данные подтянуть из API _/api/table_
 
 _макет_
+
 ![Table](table.png)
 
 _/api/table_
